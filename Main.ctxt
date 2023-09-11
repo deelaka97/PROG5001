@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=index\ studentsMarks\ scanner
+comment2.target=void\ inputStudentMarks(int,\ java.util.List,\ java.util.Scanner)
+comment3.params=mark
+comment3.target=boolean\ isValidMark(int)
+comment4.params=studentsMarks
+comment4.target=double\ calculateMean(java.util.List)
+comment5.params=studentsMarks
+comment5.target=double\ calculateStandardDeviation(java.util.List)
+numComments=6
